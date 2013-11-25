@@ -5,3 +5,5 @@ print "Hello World, I'm Doing Science?"
 print "Thats nice, I'm programing!"
 
 HelloWorld(" Today's A Good Day!")
+
+print "Hello my name is Jade"
